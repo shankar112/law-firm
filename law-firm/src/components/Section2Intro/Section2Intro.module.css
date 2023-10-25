@@ -1,0 +1,18 @@
+.wrapper{
+    width: 100vw;
+    height: 174px;
+    /* text-align: center; */
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+
+.line{
+    height: 190px;
+    border: 1px solid #6A6A6A;
+}
+
+.section2tab3{
+    margin-top: 20px;
+}

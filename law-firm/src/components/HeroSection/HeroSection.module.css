@@ -1,5 +1,36 @@
-.herotab1{
-    width: 500px;
-    height: 190px;
-    
+.herotab{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    gap: 50px;
 }
+
+.herotab3{
+    position: relative;
+}
+
+.herotab3Input{
+    width: 438px;
+    height: 71px;
+    border-radius: 43px;
+    background-color: #2e2b2b;
+}
+
+.herotab3Button{
+    width: 167px;
+    height: 65px;
+    border-radius: 43px;
+    background-color: #bfc20a;
+    position: absolute;
+    top: 6px;
+    right: 3px;
+    cursor: pointer;
+}
+
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+}
+

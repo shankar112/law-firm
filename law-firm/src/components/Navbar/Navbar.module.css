@@ -1,0 +1,20 @@
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.navWrapper2{
+    width: 431px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navWrapper3{
+    width: 172px;
+    height: 47px;
+    border: 2px solid #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
